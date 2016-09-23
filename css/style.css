@@ -4,6 +4,9 @@ img{ border: 0 none; vertical-align: top;}
 a{ text-decoration: none; color: #000;}
 a:hover{ color:#00A8FF;}
 i{ font-style: normal;}
+html,body{
+	width: 100%;
+}
 body{
 	font-family: "微软雅黑";
 	font-size: 12px;
@@ -165,6 +168,9 @@ body{
 	margin: 0 auto;
 	background: url(../images/bottom_tit.png) no-repeat;
 	padding-top: 66px;
+}
+.a{
+	width: 1111px;
 }
 .bottom_news,.bottom_links,.bottom_cantact{
 	float: left;
